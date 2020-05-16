@@ -10,7 +10,7 @@
 ### 파이썬 단계별로 풀어보기
 
 <details>
-    <summary>자세히</summary>
+    <summary>자세히 펼쳐보기</summary>
 
 |*문제*|*관련*|*코드*|
 |:---:|:---:|:---:|
@@ -24,5 +24,25 @@
 |[2523](https://www.acmicpc.net/problem/2523)|실습1|[py](https://github.com/jun7867/Baekjoon_code/blob/master/step_by_step/%EC%8B%A4%EC%8A%B51/2523_%EB%B3%84%EC%B0%8D%EA%B8%B01.py)|
 |[5543](https://www.acmicpc.net/problem/5543)|실습1|[py](https://github.com/jun7867/Baekjoon_code/blob/master/step_by_step/%EC%8B%A4%EC%8A%B51/5543_%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C.py)|
 
+</details>
+
+
+
+
+
+
+### Algorithm
+
+<details>
+    <summary>자세히 펼쳐보기</summary>
+
+|*문제*|*관련*|*코드*|
+|:---:|:---:|:---:|
+|[2798](https://www.acmicpc.net/problem/2798)|brute force|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Brute_force/2798.py)|
+
 
 </details>
+
+
+
+
