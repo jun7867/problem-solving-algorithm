@@ -39,6 +39,7 @@
 |[2798](https://www.acmicpc.net/problem/2798)|brute force|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Brute_force/2798.py)|
 |[2231](https://www.acmicpc.net/problem/2231)|brute force|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Brute_force/2231.py)|
 |[7568](https://www.acmicpc.net/problem/7568)|brute force|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Brute_force/7568.py)|
+|[1436](https://www.acmicpc.net/problem/1436)|brute force|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Brute_force/1436.py)|
 
 
 </details>
