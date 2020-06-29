@@ -14,9 +14,9 @@ for i in range(N):
     if N_list[i] >= K:
       break
 
-for j in range(i,0,-1):
-    result += K // N_list[j-1]
-    K %=N_list[j-1]
+for j in range(i,-1,-1):
+    result += K // N_list[j]
+    K %=N_list[j]
 
 print(result)
 
