@@ -1,4 +1,3 @@
-s = "baaaa"
 n = len(s)
 count = 0
 countA = 0
