@@ -26,6 +26,7 @@
 |[2446](https://www.acmicpc.net/problem/2446)|실습1|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/step_by_step/%EC%8B%A4%EC%8A%B51/2446.py)|
 </details>
 
+... 그 외 자세한 내용은 https://github.com/jun7867/Baekjoon_solution/blob/master/step_by_step
 ---
 
 
@@ -53,8 +54,11 @@
 |[2875](https://www.acmicpc.net/problem/2875)|Greedy|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Greedy/2875.py)|
 |[5585](https://www.acmicpc.net/problem/5585)|Greedy|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Greedy/5585.py)|
 
-
+... 그 외 자세한 내용은 https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm
 </details>
+
+### Programmers 
+
 
 
 
