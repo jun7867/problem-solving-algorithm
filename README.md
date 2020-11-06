@@ -24,9 +24,11 @@
 |[2523](https://www.acmicpc.net/problem/2523)|실습1|[py](https://github.com/jun7867/Baekjoon_code/blob/master/step_by_step/%EC%8B%A4%EC%8A%B51/2523_%EB%B3%84%EC%B0%8D%EA%B8%B01.py)|
 |[5543](https://www.acmicpc.net/problem/5543)|실습1|[py](https://github.com/jun7867/Baekjoon_code/blob/master/step_by_step/%EC%8B%A4%EC%8A%B51/5543_%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C.py)|
 |[2446](https://www.acmicpc.net/problem/2446)|실습1|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/step_by_step/%EC%8B%A4%EC%8A%B51/2446.py)|
-</details>
 
 ... 그 외 자세한 내용은 https://github.com/jun7867/Baekjoon_solution/blob/master/step_by_step
+</details>
+
+
 ---
 
 
