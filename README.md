@@ -60,6 +60,7 @@
 |[13305](https://www.acmicpc.net/problem/5585)|Greedy|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Greedy/13305.py)|
 |[11256](https://www.acmicpc.net/problem/5585)|Greedy|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Greedy/11256.py)|
 |[14247](https://www.acmicpc.net/problem/5585)|Greedy|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Greedy/14247.py)|
+
 ... 그 외 자세한 내용은 https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm
 </details>
 
