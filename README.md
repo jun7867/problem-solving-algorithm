@@ -55,6 +55,11 @@
 |[2839](https://www.acmicpc.net/problem/2839)|Greedy|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Greedy/2839.py)|
 |[2875](https://www.acmicpc.net/problem/2875)|Greedy|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Greedy/2875.py)|
 |[5585](https://www.acmicpc.net/problem/5585)|Greedy|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Greedy/5585.py)|
+|[2138](https://www.acmicpc.net/problem/5585)|Greedy|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Greedy/2138.py)|
+|[11508](https://www.acmicpc.net/problem/5585)|Greedy|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Greedy/11508.py)|
+|[13305](https://www.acmicpc.net/problem/5585)|Greedy|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Greedy/13305.py)|
+|[11256](https://www.acmicpc.net/problem/5585)|Greedy|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Greedy/11256.py)|
+|[14247](https://www.acmicpc.net/problem/5585)|Greedy|[py](https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm/Greedy/14247.py)|
 
 ... 그 외 자세한 내용은 https://github.com/jun7867/Baekjoon_solution/blob/master/algorithm
 </details>
