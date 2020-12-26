@@ -1,0 +1,36 @@
+# 15686 치킨배달
+
+import sys
+from itertools import combinations
+
+input = sys.stdin.readline
+
+#초기 설정
+n, m = map(int, input().split())
+city = []
+home = []
+store = []
+for i in range(n):
+    temp = list(map(int, input().split()))
+    for j in range(len(temp)):
+        if temp[j] == 2:
+            store.append((i, j))
+        elif temp[j] == 1:
+            home.append((i, j))
+    city.append(temp)
+members = combinations(store, m)
+combi_sum = []
+for mem in members:
+    combi_store = list(mem)
+
+    diffList = []
+    for hi, hj in home:
+        minV = 10000
+        for si, sj in combi_store:
+            diff = abs(hi - si) + abs(hj - sj)
+            if minV > diff:
+                minV = diff
+        diffList.append(minV)
+    combi_sum.append(sum(diffList))
+print(min(combi_sum))
+
