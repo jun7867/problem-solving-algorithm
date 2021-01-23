@@ -1,5 +1,0 @@
-숫자 단위수 쪼개기 => map(int, str(number))
-
-
-example
-
