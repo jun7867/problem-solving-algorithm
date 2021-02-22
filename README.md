@@ -1,4 +1,4 @@
-# [Python,Java] Baekjoon +Programmers +SW Expert Academy(SWEA)
+# [Python,Java] Baekjoon +Programmers +SW Expert Academy(SWEA) + jungol
 
 ### This repository is the code that solved the problem on [Baekjoon] [Programmers] [SWEA]
 * Add Programmers 
